@@ -1,6 +1,0 @@
-This is the final version of my project.
-Changed by bruh
-This is not final
-This is certainly not the last modification but it's here.
-Editing tto check if it shows in the directory
-Changing to check if the ignore command worked or not
